@@ -1,0 +1,150 @@
+body,p,span{
+    font-family:'Open-Sans';
+}
+h1,h2,h3,h4,h5,h6,a{
+    font-family:'Open-Sans';
+}
+.pic img{
+    max-width: 300%;
+}
+/* ul.jon-menu{}
+ul.jon-menu li{} */
+ul.jon-menu li a{
+    text-decoration: none;
+    display: inline-block;
+    padding: 10px 20px;
+    color:#111;
+}
+.signup-btn {
+    margin-left: 20px;
+}
+.slider-section{
+    background: url(IMAGE!/Background\ pattern.png) no-repeat center center;
+    padding:200px 0 0;
+    position:relative;
+    z-index: 1;
+}
+.slider-section::after{
+    content:"";
+    height:100%;
+    width:100%;
+    position:absolute;
+    top:0;
+    left:0;
+    background: rgba(3, 98, 66, 1);
+    z-index: -1;
+}
+.demo1{
+    padding-left: 450px;
+}
+.demo2{
+    padding-right: 450px;
+}
+.slider-captionh.h5{
+    color:aliceblue;
+}
+.slider-caption.h1{
+    color:aliceblue;
+}
+ .pic{
+    max-width:40%;
+ }
+ .btn2{
+    border:#5ba533;
+    padding: 9px;
+ }
+.main-header{
+    background-color: rgba(3, 98, 66, 1);
+}
+.logo1{
+    justify-content: center;
+    padding: 10px;
+}
+.simple1{
+    background-color:rgba(3, 98, 66, 1);
+    padding: 60px;
+    
+}
+.b3{
+    background: white;
+}
+.pic3{
+    max-inline-size: 150px;
+}
+.pic3 img{
+    max-width: 350px;
+}
+.side{
+    padding: 40px;
+}
+.about{
+    padding:40px;
+     background: rgba(107, 205, 107, 0.88);  
+ 
+ /* background: rgb(0,163,108);  */
+}
+.features{
+    padding: 40px;
+    background: rgba(107, 205, 107, 0.88);
+}
+.pic7{
+    max-inline-size: 150px;
+}
+
+.pricing-item{
+    background-color: #fff;
+    padding: 20px;
+    box-shadow: 2.5px 4.33px 30px 0 rgba(64,87,191,0.1);
+    border-radius: 5px;
+    margin-right: 15px;
+    margin-left: 10px;
+    }
+.pricing-item2{
+        background-color: #fff;
+        padding: 20px;
+        box-shadow: 2.5px 4.33px 30px 0 rgba(64,87,191,0.1);
+        border-radius: 5px;
+        margin-left: 40px;
+        }
+.design{
+    background: #28df9f;
+}
+.lastpic{
+    max-inline-size: 80px;
+}
+.lastpic img{
+    max-width: 190px;
+}
+.last{
+    margin-left: 60px;
+}
+.info{
+    background:rgba(3, 98, 66, 1);
+}
+.last1{
+    padding: 20px;
+    
+}
+.b1{
+    padding:25px;
+    
+}
+.b2{
+    padding:10px ;
+
+}
+.lt{
+    margin-left: 290px;
+}
+.footer{
+    background: rgba(3, 98, 66, 1);
+}
+.kl{
+    width:30px;
+}
+.p1{
+    color:rgba(3, 113, 76, 0.946);
+}
+.t{
+    color:rgba(3, 113, 76, 0.946);
+}

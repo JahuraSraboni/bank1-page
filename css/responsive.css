@@ -1,0 +1,159 @@
+@media screen and (max-width: 480px) {
+  .demo1{
+    justify-content: center;
+    padding-left: 20px;
+    padding-bottom: 20px;
+  }
+  .demo2{
+      padding-right: 0px;
+  }
+  .logo1 {
+    display: block !important;
+  }
+  .side{
+    padding: 0px;
+}
+  .simple .container {
+    padding: 0px;
+  }
+  .simple-x {
+    display: block !important;
+    padding: 0;
+  }
+  .f-containter {
+    display: block !important;
+  }
+  .pic7 img {
+    max-width: 230px;
+  }
+  .last .container{
+    padding:0px;
+  }
+  .last-x{
+    display:block !important;
+    padding:0;
+  }
+  .d-flex{
+    display:block !important;
+  }
+  .col-lg-4 {
+    padding: 10px;
+  }
+  .col-lg-4 {
+    display: inline;
+  }
+  .col-lg-4 {
+    display: inline;
+  }
+  .info.col-lg-6 {
+    margin-right: 40px;
+    display: inline-block;
+  }
+  .info.col-lg-6 {
+    margin: 10px;
+      margin-top: 0 !important;
+      margin-right: 110px !important;
+      margin-bottom: 0;
+      margin-left: 0 !important;
+    display: inline-flex;
+    padding: 0px 70px 0px !important;
+  }
+  .lastpic img {
+    max-width: 296px;
+  }
+  .btn.btn-outline-info.ml-3.btn-success.btn-block.text-white.mb-5 {
+    display: inline-block;
+    margin-bottom: 0px;
+  }
+  .font-control-lg.ml-4.b1.py-2.wb-70.mb-5 {
+    display: block;
+    padding-left: 80px;
+  }
+  .col-lg-2 {
+    display: inline-block;
+  }
+   .f-d{
+    display: block !important;
+   }
+}
+
+@media screen and (max-width: 1024px) {
+  /* Your styles for tablets here */
+  .demo1{
+    justify-content: center;
+    padding-left: 20px;
+    padding-bottom: 20px;
+  }
+  .demo2{
+      padding-right: 0px;
+  }
+  
+  .logo1 {
+    display: block !important;
+  }
+  .side{
+    padding: 0px;
+}
+  .simple .container {
+    padding: 0px;
+  }
+  .simple-x {
+    display: block !important;
+    padding: 0;
+  }
+  .f-containter {
+    display: block !important;
+  }
+  .pic7 img {
+    max-width: 230px;
+  }
+  .last .container{
+    padding:0px;
+  }
+  .last-x{
+    display:block !important;
+    padding:0;
+  }
+  .d-flex{
+    display:block !important;
+  }
+  .col-lg-4 {
+    padding: 10px;
+  }
+  .col-lg-4 {
+    display: inline;
+  }
+  .col-lg-4 {
+    display: inline;
+  }
+  .info.col-lg-6 {
+    margin-right: 40px;
+    display: inline-block;
+  }
+  .info.col-lg-6 {
+    margin: 10px;
+      margin-top: 0 !important;
+      margin-right: 110px !important;
+      margin-bottom: 0;
+      margin-left: 0 !important;
+    display: inline-flex;
+    padding: 0px 70px 0px !important;
+  }
+  .lastpic img {
+    max-width: 296px;
+  }
+  .btn.btn-outline-info.ml-3.btn-success.btn-block.text-white.mb-5 {
+    display: inline-block;
+    margin-bottom: 0px;
+  }
+  .font-control-lg.ml-4.b1.py-2.wb-70.mb-5 {
+    display: block;
+    padding-left: 80px;
+  }
+  .col-lg-2 {
+    display: inline-block;
+  }
+   .f-d{
+    display: block !important;
+   }
+}
